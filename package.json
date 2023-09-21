@@ -1,0 +1,31 @@
+{
+  "name": "@basha_coder/compiler",
+  "version": "1.0.0",
+  "description": "Compiles code",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bashamega/compiler.git"
+  },
+  "keywords": [
+    "compiler"
+  ],
+  "author": "basha_coder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bashamega/compiler/issues"
+  },
+  "homepage": "https://github.com/Bashamega/compiler#readme",
+  "dependencies": {
+    "python-shell": "^5.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
