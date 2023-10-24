@@ -5,7 +5,7 @@
 This is an open source compiler that compiles code in the browser. It is licensed under the MIT license.
 This lib compiles the following languages:
 - Python 3
-
+- Web (HTML)
 If you want to add a language, please follow the [Contributing guideline](https://github.com/Bashamega/compiler/blob/main/contributing.md).
 ### How to use?
 First install the package

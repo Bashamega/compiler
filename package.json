@@ -1,6 +1,6 @@
 {
   "name": "@basha_coder/compiler",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Compiles code",
   "main": "src/index.js",
   "directories": {
